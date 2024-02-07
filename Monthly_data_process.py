@@ -67,3 +67,5 @@ final_df['Rainfall (mm)'] = rainfall_df
 
 # Output the data
 final_df.to_csv('86027_output.csv', index = False)
+
+print ("Hello World")
